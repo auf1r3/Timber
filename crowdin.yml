@@ -1,0 +1,6 @@
+files:
+  - source: '**/res/values/string*.xml'
+    translation: '%original_path%-%android_code%/%original_file_name%'
+    languages_mapping:
+      android_code:
+        ru: ru
